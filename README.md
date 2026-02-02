@@ -12,8 +12,8 @@ Anti-doomscroll tool qui détecte quand tu regardes ton téléphone et lance une
 ## Installation (Dev)
 ```bash
 # Clone le repo
-git clone <repo_url>
-cd cloclo_tracker
+git clone https://github.com/lazzylife42/DoomscrollTracker
+cd DoomscrollTracker
 
 # Installe les dépendances
 make install
@@ -54,9 +54,9 @@ Le fichier `DoomscrollTracker.dmg` est prêt à être distribué !
 ├── build_app.spec          # Config PyInstaller
 ├── image.jpg               # Icône source
 ├── Indiana_Jones.mp4       # Vidéo à afficher
-├── yolov8n.pt             # Modèle YOLO (auto-téléchargé)
-├── Makefile               # Commandes de build
-└── README.md              # Ce fichier
+├── yolov8n.pt              # Modèle YOLO (auto-téléchargé)
+├── Makefile                # Commandes de build
+└── README.md               # Ce fichier
 ```
 
 ## Commandes Makefile
