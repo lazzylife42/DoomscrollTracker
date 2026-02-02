@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+*.dmg
+dmg_temp/
+
+# Icônes générées
+icon.iconset/
+icon.icns
+image.png
+
+# Models (trop gros pour git)
+*.pt
+
+# Vidéos (trop grosses pour git)
+*.mp4
+*.mov
+*.avi
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
