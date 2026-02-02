@@ -22,6 +22,7 @@ dmg_temp/
 icon.iconset/
 icon.icns
 image.png
+image.jpg
 
 # Models (trop gros pour git)
 *.pt
